@@ -10,7 +10,6 @@ A step by step guide to learn the concept of python
 8. Check Prime No
 9. Find The Factorial of a Number
 10. Convert Kilometer to mile
-    -----------------------
 11.True if statement
 12.for - given list and data
 13.if else for symmetrical or Palindrome
