@@ -1,4 +1,5 @@
 # 9.to find factorial
+
 num = int(input("Enter a number: "))
 
 factorial = 1
