@@ -1,3 +1,5 @@
+# 3.to find square root number.
+
 import math
 
 num = float(input("Enter a number : "))
