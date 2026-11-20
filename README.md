@@ -16,6 +16,7 @@ A collection of beginner-friendly Python programs to practice basic programming 
 13. Palindrome Checker – Check whether a string reads the same backwards.
 14. Reverse Words – Reverse the order of words in a sentence.
 15. Pangram Checker – Check whether a sentence contains all alphabet letters.
+
 🚀 How to Use
-1. Install Python 3.x.
-2. Clone the repository:
+Install Python 3.x.
+Clone the repository:
