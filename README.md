@@ -1,18 +1,21 @@
-# 15-Program of python
-A step by step guide to learn the concept of python
-1. Print Hello World!
-2. Add Two Number
-3. Find Square root
-4. calculate The Area of a Triangle
-5. check no is Even & Odd
-6. Check leap year
-7. Find the largest Among Three Number
-8. Check Prime No
-9. Find The Factorial of a Number
-10. Convert Kilometer to mile
-11.True if statement
-12.for - given list and data
-13.if else for symmetrical or Palindrome
-14.reverse word 
-15.import string(True/False)
-
+Python Practical Programs
+A collection of beginner-friendly Python programs to practice basic programming concepts.
+📋 Practical List
+1. Hello World – Print a simple message.
+2. Add Two Numbers – Take input and calculate the sum.
+3. Square Root – Find the square root of a number.
+4. Area of Triangle – Calculate the area of a triangle.
+5. Odd or Even – Check whether a number is odd or even.
+6. Leap Year – Check whether a year is a leap year.
+7. Largest of Three Numbers – Find the greatest number.
+8. Prime Number – Check whether a number is prime.
+9. Factorial – Calculate the factorial of a number.
+10. Kilometres to Miles – Convert kilometres into miles.
+11. Vowel Checker – Check whether a character is a vowel.
+12. Length Calculator – Find the length of a string or list.
+13. Palindrome Checker – Check whether a string reads the same backwards.
+14. Reverse Words – Reverse the order of words in a sentence.
+15. Pangram Checker – Check whether a sentence contains all alphabet letters.
+🚀 How to Use
+1. Install Python 3.x.
+2. Clone the repository:
