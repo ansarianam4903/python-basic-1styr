@@ -1,4 +1,4 @@
-# 2.Add to number 
+# 2.To Add to number 
 
 num1 = float(input("enter first number : "))
 num2 = float(input("enter Second number : "))
