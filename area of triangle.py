@@ -1,4 +1,4 @@
-# 4.Calculate area of triangle
+# 4.To Calculate area of triangle
 
 base = float(input("Enter base : "))
 height = float(input("Enter height : "))
